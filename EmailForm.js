@@ -32,7 +32,6 @@ class EmailForm extends React.Component{
                     required={true}
                     ></input>
                 </label>
-                <p></p>
                 
             </form>
         )
